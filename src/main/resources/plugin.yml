@@ -1,0 +1,4 @@
+name: Kamikaze
+version: '${project.version}'
+main: me.alex4386.plugin.kamikaze.Main
+api-version: '1.20'
